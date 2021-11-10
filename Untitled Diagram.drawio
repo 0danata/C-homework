@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T14:31:36.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.2" etag="y3DvXx62xkUwB_oeNJ_i" type="github"><diagram id="cwQFlQe7LqSTjvlpHrVS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-10T14:41:41.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="jTBTuLT7uKfTOiUch1h_" version="15.7.2" type="github">
+  <diagram id="cwQFlQe7LqSTjvlpHrVS" name="Страница 1">
+    <mxGraphModel dx="1242" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-1" value="Простенький алгоритм сложения двух чисел" style="ellipse;whiteSpace=wrap;html=1;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-2" value="Сложения двух чисел" style="rhombus;whiteSpace=wrap;html=1;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.5" y="200" as="sourcePoint" />
+            <mxPoint x="339.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-4" value="int a = 10;&lt;br&gt;int b = 20;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;fontColor=#EEEEEE;strokeColor=#BAC8D3;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="mfrXT3F4f999Zeqdr9dm-5" target="mfrXT3F4f999Zeqdr9dm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-5" value="cout &amp;lt;&amp;lt; a + b;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#EEEEEE;strokeColor=#BAC8D3;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-6" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;strokeColor=#0B4D6A;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.5" y="300" as="sourcePoint" />
+            <mxPoint x="339.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfrXT3F4f999Zeqdr9dm-7" value="= 30 ;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;sketch=0;fontColor=#EEEEEE;strokeColor=#BAC8D3;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
